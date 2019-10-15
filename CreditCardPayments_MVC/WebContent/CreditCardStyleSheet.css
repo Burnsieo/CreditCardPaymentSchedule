@@ -1,0 +1,35 @@
+@charset "ISO-8859-1";
+
+h1 {
+	font-family: optima;
+	text-align: center;
+}
+
+p {
+  text-align: center;
+}
+
+body {
+  background-color: black;
+  background-repeat: no-repeat;
+  color: white;
+  margin-left: 150px;
+  margin-right: 150px;
+}
+
+table, tr, td, th {
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  border: 3px solid white;
+  border-collapse: collapse;
+}
+
+form {
+	text-align: center;
+	
+}
+
+footer {
+	text-align: center;
+}
